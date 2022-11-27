@@ -1,0 +1,9 @@
+.cantainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div{
+position: absolute;
+top: 7rem;
+}
